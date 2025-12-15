@@ -4,7 +4,7 @@ Hi 👋 My name is Pascal
 I started programming in 2024 and am currently a game development student at University of Applied Sciences in Salzburg. I started with C# but have made the transition to C++ in Fall 2025. At the moment, my favourite areas are gameplay systems & engine programming, though I'm just at the beginning of my journey there.
 
 * 🌍  I'm based in Salzburg
-* ✉️  You can contact me at [https://www.linkedin.com/in/pascal-marsche](mailto:https://www.linkedin.com/in/pascal-marsche)
+* ✉️  You can contact me at [fhs52314@fh-salzburg.ac.at](mailto:fhs52314@fh-salzburg.ac.at)
 * 🧠  I'm currently learning C++, engine programming & Unreal
 
 <p align="left">
