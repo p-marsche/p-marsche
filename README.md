@@ -1,11 +1,12 @@
 Hi 👋 My name is Pascal
 =======================
 
-I started programming in 2024 and am currently a game development student at University of Applied Sciences in Salzburg. I started with C# but have made the transition to C++ in Fall 2025. At the moment, my favourite areas are gameplay systems & engine programming, though I'm just at the beginning of my journey there.
+I started programming in 2024 and am currently a game development student at University of Applied Sciences in Salzburg. I started with C# but have made the transition to C++ in Fall 2025 and right now, I'm getting into Unity & Unreal.
+At the moment, my favourite areas are gameplay systems & engine programming, though I'm just at the beginning of my journey there.
 
 * 🌍  I'm based in Salzburg
 * ✉️  You can contact me at [fhs52314@fh-salzburg.ac.at](mailto:fhs52314@fh-salzburg.ac.at)
-* 🧠  I'm currently learning C++, engine programming & Unreal
+* 🧠  I'm currently learning C++, Unity & Unreal (and some engine programming & Python on the side)
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
